@@ -13,4 +13,7 @@ a {
   &:active {
     color: darken($primary, 15%);
   }
+  &.muted {
+    color: $secondary;
+  }
 }
