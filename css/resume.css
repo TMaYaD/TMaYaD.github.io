@@ -149,3 +149,7 @@ a:hover, a:focus, a:active {
 a.muted {
   color: #868e96;
 }
+
+.nobreak {
+  white-space: nowrap !important;
+}
