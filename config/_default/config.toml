@@ -1,0 +1,12 @@
+baseURL = "https://tmayad.github.io/"
+
+enableGitInfo = true
+enableRobotsTXT = true
+
+defaultContentLanguage = "en"
+
+paginate = 10
+summaryLength = 0
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
